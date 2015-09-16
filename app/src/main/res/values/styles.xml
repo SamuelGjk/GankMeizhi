@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="Base.Theme.GankMeizhi.Light" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.GankMeizhi.Light.DarkActionBar" parent="Base.Theme.GankMeizhi.Light">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/darkPrimaryColor</item>
+    </style>
+
+</resources>

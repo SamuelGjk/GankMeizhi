@@ -1,0 +1,13 @@
+<resources>
+    <color name="primaryColor">#9C27B0</color>
+    <color name="darkPrimaryColor">#7B1FA2</color>
+    <color name="accentColor">#E040FB</color>
+
+    <color name="translucent">#44000000</color>
+
+    <color name="refresh_progress_1">#FF5722</color>
+    <color name="refresh_progress_2">@color/accentColor</color>
+    <color name="refresh_progress_3">@color/primaryColor</color>
+
+    <color name="picture_activity_bg">#3C3F41</color>
+</resources>
